@@ -26,6 +26,7 @@ jinja2-time==0.2.0
 lazy-object-proxy==1.8.0
 MarkupSafe==2.1.1
 mccabe==0.7.0
+mysql-connector-python==8.0.31
 nodeenv==1.7.0
 packaging==21.3
 Pillow==9.1.1
@@ -33,6 +34,7 @@ pkginfo==1.8.3
 platformdirs==2.5.4
 pluggy==1.0.0
 pre-commit==2.20.0
+protobuf==3.20.1
 pup==1.0.0a17
 pylint==2.15.7
 pyparsing==3.0.9
